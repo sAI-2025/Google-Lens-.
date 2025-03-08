@@ -1,4 +1,4 @@
-# Google-Lens.
+#AI Powered Google-Lens.
 # Image Similarity Engine (Google Lens Recreation with ResNet)
 
 ## Overview
